@@ -15,7 +15,7 @@ gem 'sprockets-rails',                  '3.2.1'               # Sprockets Rails 
 #   --Database
 gem 'sqlite3',                          '1.3.13'              # This module allows Ruby programs to interface with the SQLite3 database engine.
 #   --Server
-gem 'puma',                             '3.11.4'              # Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications.
+gem 'puma',                             '5.5.1'               # Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications.
 #   --UI Related
 gem 'jquery-rails',                     '4.2.2'               # This gem provides jQuery and the jQuery-ujs driver for your Rails 4+ application.
 gem 'jquery-ui-rails',                  '6.0.1'               # This gem packages the jQuery UI assets (JavaScripts, stylesheets, and images) for the Rails asset pipeline.
